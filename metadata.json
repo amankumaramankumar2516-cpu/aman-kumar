@@ -1,0 +1,7 @@
+{
+  "name": "Astra AI",
+  "description": "An advanced, intelligent AI assistant named Astra. Features multi-language support, fast responses, image analysis, and high-quality image generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
